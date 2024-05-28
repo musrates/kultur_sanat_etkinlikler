@@ -1,7 +1,8 @@
 # Kultur Sanat Etkinlikleri Projesi
 
 Bu proje, kültür ve sanat etkinliklerinin yönetimini ve takibini sağlayan bir web uygulamasıdır. Kullanıcılar etkinlikleri görüntüleyebilir, etkinlik ekleyebilir, silebilir ve düzenleyebilir.
-
+## link 
+http://95.130.171.20/~st22360859328
 ## Başlangıç
 
 Bu talimatlar, projenin yerel bir bilgisayarınızda nasıl çalıştırılacağını anlatacaktır.

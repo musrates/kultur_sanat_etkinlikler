@@ -1,0 +1,1 @@
+# kultur_sanat_etkinlikler

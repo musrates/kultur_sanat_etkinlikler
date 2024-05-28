@@ -18,7 +18,7 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
 1. Bu depoyu yerel makinenize klonlayın:
 
 ```
-git clone https://github.com/kullaniciadi/kultur-sanat-etkinlikleri.git
+git clone https://github.com/musrates/kultur-sanat-etkinlikleri.git
 ```
 
 2. XAMPP'yi kurun ve Apache ve MySQL modüllerini başlatın.
